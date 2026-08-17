@@ -1,0 +1,11 @@
+/about / 301
+/about/ / 301
+/press / 301
+/press/ / 301
+/projects / 301
+/projects/ / 301
+/projects/* / 301
+/playbook / 301
+/playbook/ / 301
+/tools / 301
+/tools/ / 301
